@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Glossary Entry Checklist</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 2rem;
+      background: #fff;
+      color: #111;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 1rem;
+    }
+    th, td {
+      border: 1px solid #ccc;
+      padding: 0.6em;
+      text-align: left;
+    }
+    th {
+      background-color: #f3f3f3;
+    }
+    .complete {
+      color: green;
+      font-weight: bold;
+    }
+    .pending {
+      color: #d2691e;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h1>Glossary Entry Field Checklist</h1>
+  <table>
+    <thead>
+      <tr>
+        <th>Field</th>
+        <th>Status</th>
+        <th>Notes</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>Definition</td><td class="complete">✅</td><td>Already complete</td></tr>
+      <tr><td>Character Composition</td><td class="complete">✅</td><td>Clear and interpretive</td></tr>
+      <tr><td>Frequency in DDJ</td><td class="complete">✅</td><td>Provided</td></tr>
+      <tr><td>Origin / Etymology</td><td class="complete">✅</td><td>Strong</td></tr>
+      <tr><td>Pronunciation</td><td class="complete">✅</td><td>Audio-enhanced</td></tr>
+      <tr><td>Short Example</td><td class="complete">✅</td><td>Correct</td></tr>
+      <tr><td>Sentence Example</td><td class="complete">✅</td><td>Contextualized</td></tr>
+      <tr><td>Grammatical Function</td><td class="complete">✅</td><td>Well laid out</td></tr>
+      <tr><td>Ancient Text References</td><td class="complete">✅</td><td>Enriches perspective</td></tr>
+      <tr><td>Shuowen Jiezi</td><td class="complete">✅</td><td>Essential</td></tr>
+      <tr><td>Erya</td><td class="complete">✅</td><td>Useful gloss</td></tr>
+      <tr><td>Synonyms</td><td class="complete">✅</td><td>Present</td></tr>
+      <tr><td>Semantic Neighbors</td><td class="complete">✅</td><td>Useful</td></tr>
+      <tr><td>Official References</td><td class="complete">✅</td><td>Met</td></tr>
+      <tr><td>Variants</td><td class="pending">⬜️</td><td>Highly Recommended</td></tr>
+      <tr><td>Phonetic Series</td><td class="pending">⬜️</td><td>Recommended</td></tr>
+      <tr><td>Stroke Count + Radical</td><td class="pending">⬜️</td><td>Useful for indexing</td></tr>
+      <tr><td>Common Compounds</td><td class="pending">⬜️</td><td>Enhances interpretation</td></tr>
+      <tr><td>Clause Role</td><td class="pending">⬜️</td><td>Advanced readers benefit</td></tr>
+      <tr><td>Chapter Index</td><td class="pending">⬜️</td><td>Aids comparative reading</td></tr>
+      <tr><td>Cross-links</td><td class="pending">⬜️</td><td>Increases glossary utility</td></tr>
+    </tbody>
+  </table>
+</body>
+</html>
