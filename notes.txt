@@ -69,3 +69,70 @@
   </table>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+more notes: 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+    <title>Welcome to Daobase81</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Welcome</h1>
+    
+
+<p>Start
+
+This publication provides open terms of use and licensing in good faith. If you believe a use or derivative of this work misrepresents its content, authorship, or purpose, you may submit a request for clarification or correction. All requests will be reviewed directly by the author, and responses will be documented for accountability. This mechanism is voluntary and informal but demonstrates a standing commitment to transparency and integrity.
+
+Accountability and Reader Rights
+This work is released with the intention of clarity and structural integrity. If you have concerns about attribution, distortions, misuse, or licensing ambiguities, you may contact the author directly at [email/contact form]. All legitimate inquiries will receive a transparent, archived response within a reasonable timeframe. This functions as a reader-accessible record of interpretive and ethical accountability.
+
+</p>
+
+
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">
+  <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
+</a>
+    
+<p>
+    -----<br>
+    <a href="modern.html">Link for Modern Systems (2009+)</a><br>
+    -----<br>
+    <a href="legacy.html">Link for Legacy Systems (1997–2008)</a><br>
+    -----<br>
+    <a href="text-index.html">Link to Direct Text File Index (compatible with all systems)</a><br>
+    -----<br>
+    <a href="welcome.txt">Plain Text Version of This Page (no links)</a><br>
+    -----<br>
+</p>
+    
+    <p>
+        If the links do not display correctly, you can access content here: <a href="text-index.html">Direct Text File Index</a>
+    </p>
+
+
+<footer>
+  <p>This site and its contents are licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA 4.0</a>.</p>
+</footer>
+  
+  
+</body>
+</html>
